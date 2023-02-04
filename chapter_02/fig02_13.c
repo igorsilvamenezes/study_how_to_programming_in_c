@@ -19,7 +19,7 @@ int main( void )
 	} /* end if */
 	
 	if( num1 != num2 ){
-		printf( "%d is note equals to %d\n", num1, num2 );
+		printf( "%d is not equals to %d\n", num1, num2 );
 	} /* end if */
 	
 	if( num1 < num2 ){
